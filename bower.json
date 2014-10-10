@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-bower",
+  "version": "0.0.0",
+  "authors": [
+    "lawrence <lliu@gagein.com>"
+  ],
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
